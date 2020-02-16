@@ -21,7 +21,7 @@ publishDir = "docs"
 [Params]
 
     # Souce Code repository section
-    description = "All the logic explained"
+    description = "Deciphered"
     github_repository = "https://github.com/805bluebell/secondDash"
     version = "0.0.1"
 

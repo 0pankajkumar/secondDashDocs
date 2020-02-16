@@ -1,8 +1,16 @@
 ---
 title: "Postings"
-date: 2017-10-17T15:26:15Z
+date: 2020-02-14T10:16:15Z
 draft: false
 weight: 30
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+All postings are filtered as below:
+
+|Form Keys|Matched With|Remarks|
+|---|---|---|
+|Company|Posting Department|
+|Title|Posting Title|
+|Team|Posting Team|
+|Posting Archive Status|Profile Status|It appears that it should match with **Profile Archive Status** but lever is not handling data like it's supposed to|
+|From / To Date range|Last Story At (GMT)|*Last Story At* is checked inbetween the From-To date both inclusive. It's very similar to the *Last interaction* filter in Lever  |
