@@ -14,10 +14,12 @@
     <item>
       <title>Logging In/Out</title>
       <link>https://805bluebell.github.io/secondDashDocs/users/logging/</link>
-      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      <pubDate>Fri, 14 Feb 2020 15:26:15 +0000</pubDate>
       
       <guid>https://805bluebell.github.io/secondDashDocs/users/logging/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <description>Entry is made restricted. We use Google&amp;rsquo;s sign-in authentication system so that we can use our existing Google IDs to login.
+But not all Google users are entertained. Only emails with directi, flock, radix &amp;amp; codechef domains are allowed inside. Others will be shown the doors.
+All the settings are done using &amp;ldquo;becandid@directi.com&amp;rdquo; and it can be changed by visiting here</description>
     </item>
     
   </channel>

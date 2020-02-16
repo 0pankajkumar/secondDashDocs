@@ -1,4 +1,5 @@
 baseURL = "https://805bluebell.github.io/secondDashDocs/"
+# baseURL = "/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"

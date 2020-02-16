@@ -1,26 +1,16 @@
 ---
-date: 2017-10-19T15:26:15Z
-lastmod: 2019-10-26T15:26:15Z
-publishdate: 2018-11-23T15:26:15Z
+date: 2020-02-15T10:26:15Z
+lastmod: 2020-02-15T10:26:15Z
+publishdate: 2020-02-15T10:26:15Z
 
-title: Last Updated
-description: Text about this post
+title: Last Updated Date
+description: Deciding last updated date
 images:
 - home-cover.png
 weight: 70
 ---
 
-# Hugo Techdoc Theme
+The last updated date is the date at which last Upload was feeded.
 
-## The Techdoc is a Hugo Theme for technical documentation.
-
-## Features
-
-* Modern, Simple layout
-* Responsive web design
-* Documentation menu (Select [Menu style](getting-started/screenshot/#menu-style))
-* [Table Of Contents](sample/table-of-contents/) for the page (selective)
-* [Theme color](getting-started/screenshot/#theme-color)
-* [Edit link](getting-started/screenshot/#edit-link) to documentation repository
-* [Custom Shortcodes](sample/custom-shortcodes/)
-* Analytics with Google Analytics, Google Tag Manager
+It is calculated from the unique ID used by MongoDB to store & distinguish records. 
+They use current timestamp to arrive at a unique ID while storing. We are reversing the procedure to get the date back.
