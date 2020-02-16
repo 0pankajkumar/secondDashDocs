@@ -10,17 +10,3 @@ images:
 weight: 10
 ---
 
-# Hugo Techdoc Theme
-
-## The Techdoc is a Hugo Theme for technical documentation.
-
-## Features
-
-* Modern, Simple layout
-* Responsive web design
-* Documentation menu (Select [Menu style](getting-started/screenshot/#menu-style))
-* [Table Of Contents](sample/table-of-contents/) for the page (selective)
-* [Theme color](getting-started/screenshot/#theme-color)
-* [Edit link](getting-started/screenshot/#edit-link) to documentation repository
-* [Custom Shortcodes](sample/custom-shortcodes/)
-* Analytics with Google Analytics, Google Tag Manager
