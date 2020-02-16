@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Reports on Talent Aquisition Reports - Docs</title>
-    <link>https://example.com/team-reports/</link>
+    <link>https://805bluebell.github.io/secondDashDocs/team-reports/</link>
     <description>Recent content in Team Reports on Talent Aquisition Reports - Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/team-reports/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://805bluebell.github.io/secondDashDocs/team-reports/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

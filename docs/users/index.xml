@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Users on Talent Aquisition Reports - Docs</title>
-    <link>https://example.com/users/</link>
+    <link>https://805bluebell.github.io/secondDashDocs/users/</link>
     <description>Recent content in Users on Talent Aquisition Reports - Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/users/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://805bluebell.github.io/secondDashDocs/users/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Logging In/Out</title>
-      <link>https://example.com/users/logging/</link>
+      <link>https://805bluebell.github.io/secondDashDocs/users/logging/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>https://example.com/users/logging/</guid>
+      <guid>https://805bluebell.github.io/secondDashDocs/users/logging/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
